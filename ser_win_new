@@ -1,5 +1,6 @@
 // server_win.cpp
 // Code for the Windows PC
+// in cmd prompt run : g++ ser_win_new.cpp -o server -lws2_32
 #include <iostream>
 #include <winsock2.h>
 #include <ws2tcpip.h>
